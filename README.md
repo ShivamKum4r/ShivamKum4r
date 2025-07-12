@@ -1,95 +1,145 @@
+<div align="center">
 
+<!-- Dynamic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=191654,3a2f80,4266dd,00c6ff,00ffff&height=160&section=header&text=Shivam%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20AI%20Solutions%20for%20Real%20World%20Impact&descAlignY=60&descSize=16" alt="Header" />
 
-<!--
-**ShivamKum4r/ShivamKum4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Machine+Learning+%7C+AI;IoT+Enthusiast;Open+Source+Contributor;Backend+Developer" alt="Typing Animation" />
+</p>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 👋 Hi, I'm Shivam Kumar
-
-[![Email](https://img.shields.io/badge/Email-aec.ece.shivamkumar.2026@gmail.com-blue?style=flat-square&logo=gmail)](mailto:aec.ece.shivamkumar.2026@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivamkum4r-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shivamkum4r)
-[![GitHub](https://img.shields.io/badge/GitHub-ShivamKum4r-lightgrey?style=flat-square&logo=github)](https://github.com/ShivamKum4r)
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Status-Open_to_Internships-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/📍_Location-India-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/🎓_Graduation-2026-4ECDC4?style=for-the-badge&labelColor=1a1a1a" />
+</p>
 
 ---
 
-## 📝 About Me
+<img align="right" alt="Dev GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-A motivated Electronics and Communication Engineering undergraduate skilled in **C++**, **Python**, Machine Learning, and data-driven development. Experienced in building AI-powered applications, interactive dashboards, and deploying models using modern tools like Streamlit, Docker, and PyTorch.
+```javascript
+const shivam = {
+  university: "Asansol Engineering College",
+  degree: "BTech, ECE",
+  batch: "2022 - 2026",
+  currentFocus: [
+    "Machine Learning",
+    "AI",
+    "Backend Development",
+    "Streamlit + FastAPI Dashboards"
+  ]
+};
+```
 
----
+💊 Developed Drug Toxicity Predictor using GCN + MLP models
 
-## 🎓 Education
+🚀 Deployed Streamlit App on HuggingFace Spaces
 
-- **Asansol Engineering College**  
-  Bachelor of Technology in Electronics & Communication Engineering (2022–2026)  
-  CGPA: 7.0 / 10
+🔍 Focused on Calibration, Threshold Tuning, & Molecular Features
 
-- **Kendriya Vidyalaya Andal**  
-  Class X – 74.6% (2018–19)  
-  Class XII – 81.6% (2020–21)
+"Think deeply, build boldly." — Shivam Kumar
 
----
-
-## 🛠️ Skills
-
-- **Languages:** C/C++, Python, SQL, HTML, CSS, JavaScript
-- **Data Science & ML:** Data Science, Machine Learning  
-  - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`
-- **Tools:** Jupyter Notebook, VS Code, Google Colab, Git (Version Control)
-- **Other:** IoT & Embedded Systems
-
----
-
-## 🚀 Projects
-
-### 🦾 Ethan / AI Robot
-- Created a static AI robot from e-waste for a NAAC visit (Dec 4, 2023), combining speech-based interaction and IoT-driven motion detection.
-- **3D Design:** Modeled the structure using Pepakura and AutoCAD.
-- **AI Module:** Enabled bidirectional voice interaction using speech recognition and text-to-speech synthesis.
-- **IoT System:** Integrated Arduino-based sensors for motion response and proximity triggers.
-
-### 💬 Sentiment Analysis for E-commerce Reviews
-- Analyzed customer reviews to derive sentiment trends and support business insights.
-- Applied NLP for preprocessing, vectorization, and feature engineering.
-- Achieved strong classification accuracy using Logistic Regression and compared with alternative models.
-
-### 💊 Drug Toxicity Prediction ([Live Demo](#))
-- Built a Streamlit dashboard to predict toxicity using MLP and GCN models (Tox21 dataset).
-- Processed SMILES strings, extracted molecular features, and trained models via RDKit and PyTorch Geometric.
-- Containerized and deployed app with Docker and Render.
+<br clear="both"/>
 
 ---
 
-## 🌱 Extra-Curricular Activities
-
-- **Students Innovation Center (SIC) — 2024–Present**
-  - Led and coordinated workshops and technical events across ECE and CS domains.
-  - Mentored peers on project development, system design, and documentation.
-  - Reviewed technical documents, gave presentations, and provided project support.
-  - Supported team that secured **3rd place** at Electronic Innovation 9.0.
+<h2 align="center">Tech Stack 💻</h2>
+<div align="center">
+  <h3 align="center">Programming & Libraries</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,scikit-learn,matplotlib,seaborn" />
+  </p>
+  <h3 align="center">Frameworks & Deployment</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=streamlit,django,fastapi,docker,vercel" />
+  </p>
+  <h3 align="center">Frontend & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,postman" />
+  </p>
+</div>
 
 ---
 
-## 🌐 Languages
-
-- **English:** Fluent
-- **Hindi:** Fluent
-- **Bengali:** Conversational
+<h2 align="center">Featured Projects 🎯</h2>
+<div align="center">
+  <table width="100%" cellpadding="10">
+    <tr>
+      <td width="50%" align="center">
+        <b>Drug Toxicity Prediction 💊</b><br/>
+        Live Deployed AI Dashboard
+        <br/><br/>
+        <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+        <br/>
+        🔹 Predicts drug toxicity from SMILES<br/>
+        🔹 Uses GCN + Fingerprint MLP<br/>
+        🔹 Visual analytics & deployment ready<br/>
+        <br/>
+        <b>Stack:</b> PyTorch Streamlit RDKit Torch-Geometric Docker<br/>
+        <a href="https://huggingface.co/spaces/ShivamKum4r/Drug-Toxicity-Prediction">
+          <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <b>Ethan AI 🤖</b><br/>
+        Speech & IoT-Based Robot (NAAC Demo)
+        <br/><br/>
+        <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino-Dark.svg" />
+        <br/>
+        <img src="![image1](image1)" alt="Ethan AI Robot Photo" width="230"/><br/><br/>
+        🔹 Static AI Robot from e-waste<br/>
+        🔹 Voice interaction (speech-to-text + TTS)<br/>
+        🔹 Motion via ultrasonic + Arduino sensors<br/>
+        <br/>
+        <b>Stack:</b> Python Arduino IoT AutoCAD SpeechRecognition<br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-> “Striving to build solutions that make a difference.”
+<h2 align="center">GitHub Insights 📊</h2>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShivamKum4r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKum4r&layout=compact&theme=tokyonight&hide_border=true&card_width=445" />
+</div>
 
-<!-- 
-For more, check out my [GitHub](https://github.com/ShivamKum4r) or connect with me on [LinkedIn](https://linkedin.com/in/shivamkum4r)!
--->
+---
+
+<h2 align="center">Let's Connect 💼</h2>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Let’s+Collaborate+on+AI+Projects;Open+to+Internships+%26+Roles;ECE+to+AI+Builder;Let’s+Build+the+Future+Together" />
+  <br>
+  <!-- Contact Buttons -->
+  <p>
+    <a href="mailto:aec.ece.shivamkumar.2026.066@gmail.com">
+      <img src="https://img.shields.io/badge/📩_Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/shivamkum4r">
+      <img src="https://img.shields.io/badge/🔗_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/ShivamKum4r">
+      <img src="https://img.shields.io/badge/🌐_GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  <h3>💡 Open to:</h3>
+  <p>AI Internships • ML Engineer Roles • Research Projects</p>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=191654,3a2f80,4266dd,00c6ff,00ffff&height=120&section=footer" />
+  <br>
+  ⭐ Thanks for visiting my profile! Let’s connect and innovate. ⭐
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ShivamKum4r&label=Profile+Views&color=FF6B6B&style=for-the-badge" />
+  </p>
+</div>
