@@ -9,7 +9,7 @@
 </p>
 
 </div>
-
+<img src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" align="right"  alt="Coding_profile"  />
 <!-- Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/🎯_Status-Open_to_Internships-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
