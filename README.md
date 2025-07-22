@@ -20,7 +20,7 @@
 
 <img align="right" alt="Dev GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 <p align="center">
-  <img src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" alt="Coding_profile" width="390" />
+  <img src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" alt="Coding_profile" width="360" />
 </p>
 
 ```javascript
